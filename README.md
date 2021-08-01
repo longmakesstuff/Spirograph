@@ -1,7 +1,3 @@
-# Spirograph
-
-Breath slowly.
-
 ### Two circles
 
 <table border="1" width="100%">
